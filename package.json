@@ -1,5 +1,5 @@
 {
-  "name": "react-redux",
+  "name": "googlepage",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -10,11 +10,13 @@
   "dependencies": {
     "axios": "^0.26.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
     "vite": "^2.8.0"
   },
-   "homepage": "."
+  "homepage": "."
 }
